@@ -1,3 +1,5 @@
 welcome to git
 git is easy 
 learened git status git log and git architecture 
+difference between git pull and fetch and clone
+
